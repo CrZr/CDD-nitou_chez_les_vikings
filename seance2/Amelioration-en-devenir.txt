@@ -1,0 +1,18 @@
+Détailler précisément les personnages telle que Yakari 
+et Yakikori(rôle)
+
+Réctifier les erreurs de syntax dans la plupart des textes 
+pour une meilleur compréhension.
+
+Eviter de faire un listing dans le walkthrough concernant 
+les étapes du dit "Tuto"
+
+Detailler + la loop.
+
+Rajouter plus d'information concernant le rêve dans 
+le walkthrough pour améliorer la compréhension du systeme de rêve
+comme une phase de tuto pour initié à ça.
+
+Modifié en précisant que la caméra est en (1st person) tout le temps 
+sans laisser d'ambiguité.
+

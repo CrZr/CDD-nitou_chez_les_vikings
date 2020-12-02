@@ -1,10 +1,8 @@
 ## Instructions for the second session
 English mod
 
-2. Gameplay
+3. Marketing
 
 ```
-a- User interface
-b- Development
-c- Walkthrough
+a- Unique Selling Point
 ```
