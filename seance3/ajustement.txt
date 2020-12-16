@@ -1,0 +1,6 @@
+- Changer la phrase avec l'arc
+- Mettre option à la place de paramettre
+- Modifier la compréhention de nitou discret
+- Retirer le "only" pour le village
+- Débloquage des 1ere compétances quand tu rencontre le grand sage dans le village
+- Mettre la spé dans l'usp
